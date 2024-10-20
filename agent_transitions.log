@@ -1,0 +1,34 @@
+Main Agent -> Web Search Agent
+Agent -> Claude API
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Agent -> Claude API
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Agent -> Claude API
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Main Agent -> Web Search Agent
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
+Main Agent -> Web Search Agent
+Web Search Agent -> Main Agent
+Main Agent -> Formatter Agent
+Agent -> Claude API
