@@ -1,4 +1,5 @@
-# AI Search Engine
+# Perplexity At Home
+Almost all code is Claude generated.
 
 This project is an AI-powered search engine that uses web scraping, content analysis, and the Claude API to provide comprehensive answers to user queries.
 
