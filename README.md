@@ -2,7 +2,7 @@
 Everything is Claude generated. Including this README.
 
 This project is an AI-powered search engine that uses web scraping, content analysis, and the Claude API to provide comprehensive answers to user queries.
-
+![Interface](image.png)
 ## Features
 
 - Web scraping of Google search results and linked pages
