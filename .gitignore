@@ -1,2 +1,4 @@
 .env
 image_urls.json
+__pycache__/
+.vscode/
